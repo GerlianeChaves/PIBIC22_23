@@ -1,0 +1,3 @@
+echo "jackal_move/yolov3.weights" >> .gitignore
+jackal_move/yolov3_new.weights
+
