@@ -1,1 +1,1 @@
-jackal_move/yolov3.weights
+echo "jackal_move/yolov3.weights" >> .gitignore
